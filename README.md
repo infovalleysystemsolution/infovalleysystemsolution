@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=infovalleysystemsolution&count_private=true&show_icons=true&theme=github_dark)
 
 ##
+<style>
 div.container {
     padding: 20px 0;
     width: 720px;
@@ -21,6 +22,8 @@ div.container {
     margin-left: auto;
     margin-right: auto;
 }
+</style>
+
 <div id = "container" style = "float: left;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="50" style = "float: left; margin-right: 50px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="50" />
