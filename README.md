@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 <div   style = "display: inline_block" >
    
    <a href="https://github.com/infovalleysystemsolution" > 
+      <span>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=infovalleysystemsolution&show_icons=true&theme=github_dark&show_icons=true&count_private=true)
      
+      </span>
   </a>
    
           
@@ -29,7 +32,6 @@ Here are some ideas to get you started:
 </div>
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=infovalleysystemsolution&show_icons=true&theme=github_dark&show_icons=true&count_private=true)
 
 ##
 
