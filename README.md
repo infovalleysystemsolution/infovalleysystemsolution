@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ##
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infovalleysystemsolution&layout=pie)](https://github.com/infovalleysystemsolution/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infovalleysystemsolution&layout==compact)](https://github.com/infovalleysystemsolution/github-readme-stats)
 
 ##
 
