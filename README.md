@@ -21,9 +21,9 @@ Here are some ideas to get you started:
      
  
       
-       <span>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=infovalleysystemsolution&repo=github-readme-stats)](https://github.com/infovalleysystemsolution/github-readme-stats)
-       </span>
+
           
   </a>
    
