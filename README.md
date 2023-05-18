@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 
 <div   style = "display: inline_block" >
-   <a href="https://www.linkedin.com/in/moizes-eder-dias/)" > 
+   <a href="https://github.com/infovalleysystemsolution" > 
      
        ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=infovalleysystemsolution&show_icons=true&theme=github_dark)
   
