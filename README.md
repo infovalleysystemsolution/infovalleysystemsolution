@@ -36,10 +36,22 @@ Here are some ideas to get you started:
 
 ##
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infovalleysystemsolution&layout==compact)](https://github.com/infovalleysystemsolution/github-readme-stats)
+<div id = "container" style = "display: inline_block" >
+  <a href="########################" target="_blank"> <img src"XXXXXXXXXXXXXXXXXXXXXXXXX" /><a>
+  <a href="########################" target="_blank"> <img src"XXXXXXXXXXXXXXXXXXXXXXXXX" /><a>
+  <a href="########################" target="_blank"> <img src"XXXXXXXXXXXXXXXXXXXXXXXXX" /><a>
+  <a href="########################" target="_blank"> <img src"XXXXXXXXXXXXXXXXXXXXXXXXX" /><a>
+  <a href="########################" target="_blank"> <img src"XXXXXXXXXXXXXXXXXXXXXXXXX" /><a>
+  <a href="########################" target="_blank"> <img src"XXXXXXXXXXXXXXXXXXXXXXXXX" /><a>
+
+</div>
 
 ##
 
+<div id = "container" style = "display: inline_block" >
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infovalleysystemsolution&layout==compact)](https://github.com/infovalleysystemsolution/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/infovalleysystemsolution/github-readme-stats)
+</div>
+##
           
           
