@@ -11,7 +11,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=infovalleysystemsolution&count_private=true&show_icons=true&theme=github_dark)
+
+<div id = "container" style = "display: inline_block" >
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=infovalleysystemsolution&count_private=true&show_icons=true&theme=github_dark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infovalleysystemsolution&layout==compact)](https://github.com/infovalleysystemsolution/github-readme-stats)
+</div>
 
 ##
 
@@ -44,7 +48,7 @@ Here are some ideas to get you started:
 ##
 
 <div id = "container" style = "display: inline_block" >
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infovalleysystemsolution&layout==compact)](https://github.com/infovalleysystemsolution/github-readme-stats)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/infovalleysystemsolution/github-readme-stats)
 </div>
 ##
