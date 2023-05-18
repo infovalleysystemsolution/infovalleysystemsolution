@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <div   style = "display:  inline-block" >
 <a href = "https://github.com/infovalleysystemsolution"> 
-<p>  
+<p>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=infovalleysystemsolution&show_icons=true&theme=github_dark&show_icons=true&count_private=true)    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infovalleysystemsolution&layout=compact)]
 </p>
