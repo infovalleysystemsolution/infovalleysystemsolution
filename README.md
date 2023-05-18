@@ -37,13 +37,8 @@ Here are some ideas to get you started:
 ##
 
 <div id = "container" style = "display: inline_block" >
-  <a href="https://www.linkedin.com/in/moizes-eder-dias/)" target="_blank"> <img src" 	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white /><a>
-  <a href="########################" target="_blank"> <img src"XXXXXXXXXXXXXXXXXXXXXXXXX" /><a>
-  <a href="########################" target="_blank"> <img src"XXXXXXXXXXXXXXXXXXXXXXXXX" /><a>
-  <a href="########################" target="_blank"> <img src"XXXXXXXXXXXXXXXXXXXXXXXXX" /><a>
-  <a href="########################" target="_blank"> <img src"XXXXXXXXXXXXXXXXXXXXXXXXX" /><a>
-  <a href="########################" target="_blank"> <img src"XXXXXXXXXXXXXXXXXXXXXXXXX" /><a>
-
+  <a href="https://www.linkedin.com/in/moizes-eder-dias/)" target="_blank"> <img src" 	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white />
+    </a>
 </div>
 
 ##
