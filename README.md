@@ -13,13 +13,16 @@ Here are some ideas to get you started:
 -->
 
 <div   style = "display: inline_block" >
+   <a href="https://www.linkedin.com/in/moizes-eder-dias/)" > 
+     
+       ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=infovalleysystemsolution&show_icons=true&theme=github_dark)
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=infovalleysystemsolution&show_icons=true&theme=github_dark)
-  
-  <img height="180em" src="https://github-readme-status.vercel/api?username=infovalleysystemsolution&show_icons=truetheme=github_dark&includes_all_commits=true&count_private=true" />
+        <img height="180em" src="https://github-readme-status.vercel/api?username=infovalleysystemsolution&show_icons=true&theme=github_dark&includes_all_commits=true&count_private=true" />
   
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infovalleysystemsolution&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infovalleysystemsolution&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+     
+  </a>
 </div>
 
 ##
