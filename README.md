@@ -22,13 +22,12 @@ Here are some ideas to get you started:
  
       
        <span>
-          [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infovalleysystemsolution&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-          </span>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=infovalleysystemsolution&show_icons=true&theme=github_dark)
+       </span>
           
   </a>
    
-          
-     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=infovalleysystemsolution&show_icons=true&theme=github_dark)
+
    
    
      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infovalleysystemsolution&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
