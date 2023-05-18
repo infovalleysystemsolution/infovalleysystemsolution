@@ -16,9 +16,9 @@ Here are some ideas to get you started:
    
    <a href="https://github.com/infovalleysystemsolution" > 
  
-<div>
+<span>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=infovalleysystemsolution&show_icons=true&theme=github_dark&show_icons=true&count_private=true)
-</div>     
+</span>     
  
 <div> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infovalleysystemsolution&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
