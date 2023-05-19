@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 <div  style = "display: inline_block" >
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/infovalleysystemsolution/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=infovalleysystemsolution&repo=github-readme-stats)](https://github.com/infovalleysystemsolution/github-readme-stats)
 
 </div>
 ##
