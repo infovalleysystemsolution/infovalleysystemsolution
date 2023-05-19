@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 ##
 
 <div   style = "display: inline_block" >
-  <a href="https://www.linkedin.com/in/moizes-eder-dias/)" target="_blank"> <img src" 	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white />
+  <a href="https://www.linkedin.com/in/moizes-eder-dias/)" target="_blank"> <img src"https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
 </div>
 
@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 <div  style = "display: inline_block" >
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/infovalleysystemsolution/github-readme-stats)
+
 </div>
 ##
           
