@@ -1,7 +1,7 @@
 ### Olá! Eu sou Moizes Eder. 👋
 
 - 🔭 Hoje estou trabalhando com PHP
-- 🌱 Estou estudando: React, Node, Vue, Laravel, Dart, Flutter, 
+- 🌱 Estou estudando: React, Node, Vue, Laravel, Dart e Flutter.
 - 📫 Contate-me no e-mail: moizes@gmail.com
 
 ##
